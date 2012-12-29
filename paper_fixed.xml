@@ -1,0 +1,682 @@
+<paper title="全新版第二版综合B3U2-C" identifier="200071af-844d-4018-83c5-becb80d8eeb1" bankid="1" policy="" level="" freeNavigation="true">
+    <group duration="15" navigationMode="linear">
+        <part title="Listening Comprehension">
+            <section title="Section A" type="">
+                <prompt>
+                    <sound duration="4" src="Begin.mp3" />
+                    <sound duration="3" src="Section A.mp3" />
+                    <text type="direction">&lt;b&gt;Directions:&lt;/b&gt; In this section, you will hear ten statements. Numbers 1 to 6 are based on Text A while the rest are based on Text B. Each statement will be read &lt;b&gt;ONLY ONCE&lt;/b&gt;. Listen carefully and decide whether each statement is true or false.</text>
+                    <text type="p_direction">&lt;b&gt;Directions:&lt;/b&gt; In this section, you will hear ten statements. Numbers 1 to 6 are based on Text A while the rest are based on Text B. Each statement will be read &lt;b&gt;ONLY ONCE&lt;/b&gt;. Listen carefully and decide whether each statement is true or false.</text>
+                    <sound duration="24" src="torf.mp3" />
+                </prompt>
+                <assessmentItem identifier="D14020FCAC904C3D85670295679FE8E1" baseType="listeningChoice" type="listeningTorF" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="false" weight="1.00">
+                        <prompt>
+                            <sound duration="12" src="8e802adeb2ad48e9b109351dc21aa69b.mp3">
+                                <transcript>Just like Uncle Tom in &lt;i&gt;Uncle Tom’s Cabin&lt;/i&gt;, Josiah Henson was a long-suffering slave who was unwilling to stand up for himself.</transcript>
+                            </sound>
+                        </prompt>
+                        <choice>
+                            <option id="1">T</option>
+                            <option id="2">F</option>
+                        </choice>
+                        <pause duration="15" />
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="EB13B96239884616A000087CB22B0268" baseType="listeningChoice" type="listeningTorF" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="false" weight="1.00">
+                        <prompt>
+                            <sound duration="11" src="c1ec6e446fc945a19a14b5e1d1326b4c.mp3">
+                                <transcript>The Underground Railroad is not a real road but a secret system used for helping thousands of slaves to escape north to Canada.</transcript>
+                            </sound>
+                        </prompt>
+                        <choice>
+                            <option id="1">T</option>
+                            <option id="2">F</option>
+                        </choice>
+                        <pause duration="15" />
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="DB62595551924D5FB1F55D5EB9194D64" baseType="listeningChoice" type="listeningTorF" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="false" weight="1.00">
+                        <prompt>
+                            <sound duration="9" src="5a7439a77349440fafad525e600daae4.mp3">
+                                <transcript>After winning his own freedom from slavery, John Parker helped other slaves to escape to get freedom.</transcript>
+                            </sound>
+                        </prompt>
+                        <choice>
+                            <option id="1">T</option>
+                            <option id="2">F</option>
+                        </choice>
+                        <pause duration="15" />
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="3B055AC48D0640A1A90CA930438C799C" baseType="listeningChoice" type="listeningTorF" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="false" weight="1.00">
+                        <prompt>
+                            <sound duration="13" src="d070a4f7945c4ed8bde6bb734a4e7b90.mp3">
+                                <transcript>Supported by his religious convictions, Levi Coffin, a white American, worked as a &quot;conductor&quot; of the Underground Railroad to help the escaping black slaves.</transcript>
+                            </sound>
+                        </prompt>
+                        <choice>
+                            <option id="1">T</option>
+                            <option id="2">F</option>
+                        </choice>
+                        <pause duration="15" />
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="7B2F50BCA3B0470A8E249E07B6760BEA" baseType="listeningChoice" type="listeningTorF" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="false" weight="1.00">
+                        <prompt>
+                            <sound duration="9" src="72768dc5680449e491104c0b6c926f3d.mp3">
+                                <transcript>Many escaping slaves had to travel at night because it was easier for them to find the direction.</transcript>
+                            </sound>
+                        </prompt>
+                        <choice>
+                            <option id="1">T</option>
+                            <option id="2">F</option>
+                        </choice>
+                        <pause duration="15" />
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="E5AB79BCB0654DCAB3AD4BB45E1E4843" baseType="listeningChoice" type="listeningTorF" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="false" weight="1.00">
+                        <prompt>
+                            <sound duration="8" src="c681062c8862481c8318d3b4e1a811d7.mp3">
+                                <transcript>Many fugitives chose Canada as their primary destination because slavery had been abolished there.</transcript>
+                            </sound>
+                        </prompt>
+                        <choice>
+                            <option id="1">T</option>
+                            <option id="2">F</option>
+                        </choice>
+                        <pause duration="15" />
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="1EC6953562424532885A3FE20C03A93C" baseType="listeningChoice" type="listeningTorF" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="false" weight="1.00">
+                        <prompt>
+                            <sound duration="11" src="e74f4e5bc77345fbb07ecccd7ae339f6.mp3">
+                                <transcript>The law at that time required black people seated in the middle area of the bus to give up their seats to white people who wanted them.</transcript>
+                            </sound>
+                        </prompt>
+                        <choice>
+                            <option id="1">T</option>
+                            <option id="2">F</option>
+                        </choice>
+                        <pause duration="15" />
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="27075B98CE2D429F93AF43D74D9E62E1" baseType="listeningChoice" type="listeningTorF" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="false" weight="1.00">
+                        <prompt>
+                            <sound duration="10" src="fbab09d2e1ee4476b993bded653e338f.mp3">
+                                <transcript>According to Rosa Parks’ own statement, she refused to give up her seat to the white because she was too tired after work.</transcript>
+                            </sound>
+                        </prompt>
+                        <choice>
+                            <option id="1">T</option>
+                            <option id="2">F</option>
+                        </choice>
+                        <pause duration="15" />
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="5BB80C36EF6B4D31AA54F0D60A13A90D" baseType="listeningChoice" type="listeningTorF" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="false" weight="1.00">
+                        <prompt>
+                            <sound duration="12" src="2936c67a5ac1442ab191f3c2e2fb28fe.mp3">
+                                <transcript>The bus boycott in Montgomery didn’t come to an end until the Supreme Court announced the racial separation illegal on city buses.</transcript>
+                            </sound>
+                        </prompt>
+                        <choice>
+                            <option id="1">T</option>
+                            <option id="2">F</option>
+                        </choice>
+                        <pause duration="15" />
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="F9D942A32CDE4D5589C2B0A6750510EE" baseType="listeningChoice" type="listeningTorF" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="false" weight="1.00">
+                        <prompt>
+                            <sound duration="8" src="a4f44c83893644b0a36d575036ebf616.mp3">
+                                <transcript>Rosa Parks was the first African American to be honored in the Capitol building after death.</transcript>
+                            </sound>
+                        </prompt>
+                        <choice>
+                            <option id="1">T</option>
+                            <option id="2">F</option>
+                        </choice>
+                        <pause duration="15" />
+                    </question>
+                </assessmentItem>
+            </section>
+            <section title="Section B" type="">
+                <prompt>
+                    <sound duration="3" src="Section B.mp3" />
+                    <text type="direction">&lt;b&gt;Directions: &lt;/b&gt;In this section, you will hear a passage three times. When the passage is read for the first time, you should listen carefully for its general idea. When the passage is read for the second time, you are required to fill in the blanks with the exact words you have just heard. Finally, when the passage is read for the third time, you should check what you have written. &lt;b&gt;&lt;i&gt;You can press &quot;Tab&quot; or &quot;Enter&quot; to go to the next blank directly. &lt;/i&gt;&lt;/b&gt;</text>
+                    <text type="p_direction">&lt;b&gt;Directions: &lt;/b&gt;In this section, you will hear a passage three times. When the passage is read for the first time, you should listen carefully for its general idea. When the passage is read for the second time, you are required to fill in the blanks with the exact words you have just heard. Finally, when the passage is read for the third time, you should check what you have written.</text>
+                    <sound duration="33" src="SpotDictation.mp3" />
+                </prompt>
+                <assessmentItem identifier="DD624E24C1854E95A1E6424CD6D64061" baseType="listeningCloze" type="spotDictation" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <prompt>
+                        <text>The Little Rock Nine, as they later came to be called, were the first black
+                            <tag type="text" />to attend all-white Central High School in Little Rock, Arkansas, in 1957. These remarkable young African-American students
+                            <tag type="text" />segregation (隔离) in the deep South and won. Although Brown v. Board of Education outlawed segregation in schools, many school systems defied the law by
+                            <tag type="text" />and threatening black students — Central High School was a
+                            <tag type="text" />example. But the Little Rock Nine were
+                            <tag type="text" />to attend the school and receive the same education offered to white students. Things grew ugly and
+                            <tag type="text" />right away. On the first day of school, the
+                            <tag type="text" />of Arkansas ordered the state’s National Guard to block the black students from entering the school. Imagine what it must have been like to be a student confronted
+                            <tag type="text" />! President Eisenhower had to send in federal troops to protect the students. But that was only the beginning of their ordeal. Every morning on their way to school angry crowds of whites insulted the Little Rock Nine — they even
+                            <tag type="text" />. One of the students, fifteen-year-old Elizabeth Eckford, said &quot;I tried to see a friendly face somewhere in the mob … I looked into the face of an old woman, and it seemed a kind face, but when I looked at her again, she
+                            <tag type="text" />.&quot; As scared as they were, the students wouldn’t give up, and several went on to graduate from Central High. Nine black teenagers challenged a racist system and defeated it.
+                        </text>
+                        <sound duration="369" src="6053c398b90847308bb87b3da58d729d.mp3">
+                            <transcript>The Little Rock Nine, as they later came to be called, were the first black &lt;u&gt;&lt;b&gt;teenagers&lt;/b&gt;&lt;/u&gt; to attend all-white Central High School in Little Rock, Arkansas, in 1957. These remarkable young African-American students &lt;u&gt;&lt;b&gt;challenged&lt;/b&gt;&lt;/u&gt; segregation (隔离) in the deep South and won. Although Brown v. Board of Education outlawed segregation in schools, many school systems defied the law by &lt;u&gt;&lt;b&gt;intimidating&lt;/b&gt;&lt;/u&gt; and threatening black students — Central High School was a &lt;u&gt;&lt;b&gt;notorious&lt;/b&gt;&lt;/u&gt; example. But the Little Rock Nine were &lt;u&gt;&lt;b&gt;determined&lt;/b&gt;&lt;/u&gt; to attend the school and receive the same education offered to white students. Things grew ugly and &lt;u&gt;&lt;b&gt;frightening&lt;/b&gt;&lt;/u&gt; right away. On the first day of school, the &lt;u&gt;&lt;b&gt;governor&lt;/b&gt;&lt;/u&gt; of Arkansas ordered the state’s National Guard to block the black students from entering the school. Imagine what it must have been like to be a student confronted &lt;u&gt;&lt;b&gt;by armed soldiers&lt;/b&gt;&lt;/u&gt;! President Eisenhower had to send in federal troops to protect the students. But that was only the beginning of their ordeal. Every morning on their way to school angry crowds of whites insulted the Little Rock Nine — they even &lt;u&gt;&lt;b&gt;received death threats&lt;/b&gt;&lt;/u&gt;. One of the students, fifteen-year-old Elizabeth Eckford, said &quot;I tried to see a friendly face somewhere in the mob … I looked into the face of an old woman, and it seemed a kind face, but when I looked at her again, she &lt;u&gt;&lt;b&gt;spat at me&lt;/b&gt;&lt;/u&gt;.&quot; As scared as they were, the students wouldn’t give up, and several went on to graduate from Central High. Nine black teenagers challenged a racist system and defeated it.</transcript>
+                        </sound>
+                        <pause duration="120" />
+                    </prompt>
+                    <question type="text" length="9" strict="true" weight="2.00">
+                        <tip />
+                    </question>
+                    <question type="text" length="10" strict="true" weight="2.00">
+                        <tip />
+                    </question>
+                    <question type="text" length="12" strict="true" weight="2.00">
+                        <tip />
+                    </question>
+                    <question type="text" length="9" strict="true" weight="2.00">
+                        <tip />
+                    </question>
+                    <question type="text" length="10" strict="true" weight="2.00">
+                        <tip />
+                    </question>
+                    <question type="text" length="11" strict="true" weight="2.00">
+                        <tip />
+                    </question>
+                    <question type="text" length="8" strict="true" weight="2.00">
+                        <tip />
+                    </question>
+                    <question type="text" length="17" strict="true" weight="2.00">
+                        <tip />
+                    </question>
+                    <question type="text" length="22" strict="true" weight="2.00">
+                        <tip />
+                    </question>
+                    <question type="text" length="10" strict="true" weight="2.00">
+                        <tip />
+                    </question>
+                </assessmentItem>
+                <prompt>
+                    <sound duration="4" src="end.mp3" />
+                    <pause duration="14" />
+                </prompt>
+            </section>
+        </part>
+    </group>
+    <group duration="15" navigationMode="nonlinear">
+        <part title="Reading Comprehension">
+            <section title="Section A" type="">
+                <prompt>
+                    <text type="direction">&lt;b&gt;Directions: &lt;/b&gt;In this section, there is a passage with several blanks. You are required to select one word for each blank from a list of choices given in a word bank beside the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. &lt;b&gt;You may not use any of the words in the bank more than once&lt;/b&gt;. Drag the word into the blank where you want to place it. If you change your mind, just drag the new word there. The former one will go back to the word bank accordingly. You can also click the &quot;restore&quot; icon beside the word in the bank to cancel your operation.</text>
+                    <text type="p_direction">&lt;b&gt;Directions: &lt;/b&gt;In this section, there is a passage with several blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. &lt;b&gt;You may not use any of the words in the bank more than once&lt;/b&gt;.</text>
+                </prompt>
+                <assessmentItem identifier="2CA875F22FE14E5889316A5310818F17" baseType="bankedCloze" type="bankedCloze" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <prompt>A gentle
+                        <tag type="choice" />swept the Canadian plains as I stepped outside the small two-story house. Alongside me was a
+                        <tag type="choice" />woman in a black dress, my guide back to a time when the surrounding settlement in Dresden, Ontario, was home to a hero in American history. As we walked toward a
+                        <tag type="choice" />gray church, Barbara Carter spoke proudly of her great-great-grandfather, Josiah Henson. &quot;He was confident that the Creator
+                        <tag type="choice" />all men to be created equal. And he never gave up struggling for that freedom.&quot; Carter’s
+                        <tag type="choice" />her ancestor is about more than personal pride: it is about
+                        <tag type="choice" />. For Josiah Henson has
+                        <tag type="choice" />through the character in American fiction that he helped
+                        <tag type="choice" />: Uncle Tom, the long-suffering slave in Harriet Beecher Stowe’s &lt;i&gt;Uncle Tom’s Cabin&lt;/i&gt;. Ironically, that character has come to
+                        <tag type="choice" />everything Henson was not. A racial sellout unwilling to stand up for himself? Carter gets angry at the thought. &quot;Josiah Henson was a man of
+                        <tag type="choice" />,&quot; she said firmly.
+                    </prompt>
+                    <choice>
+                        <option id="1">framework</option>
+                        <option id="2">plain</option>
+                        <option id="3">hazard</option>
+                        <option id="4">intended</option>
+                        <option id="5">sought attention</option>
+                        <option id="6">devotion to</option>
+                        <option id="7">breeze</option>
+                        <option id="8">a sense of trust</option>
+                        <option id="9">lived on</option>
+                        <option id="10">symbolize</option>
+                        <option id="11">slender</option>
+                        <option id="12">family honor</option>
+                        <option id="13">inspire</option>
+                        <option id="14">principle</option>
+                        <option id="15">reverse</option>
+                    </choice>
+                    <question type="choice" strict="true" weight="1.00">
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" weight="1.00">
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" weight="1.00">
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" weight="1.00">
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" weight="1.00">
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" weight="1.00">
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" weight="1.00">
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" weight="1.00">
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" weight="1.00">
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" weight="1.00">
+                        <tip />
+                    </question>
+                </assessmentItem>
+            </section>
+            <section title="Section B" type="">
+                <prompt>
+                    <text type="direction">&lt;b&gt;Directions: &lt;/b&gt;There are several passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice.</text>
+                    <text type="p_direction">&lt;b&gt;Directions: &lt;/b&gt;There are several passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice.</text>
+                </prompt>
+                <assessmentItem identifier="C6E5344225874E13B6CA526C3256DCE3" baseType="reading" type="readingChoice" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <prompt>
+                        <text type="guide">Passage One</text>
+                        <text type="guide">Questions 31 to 35 are based on the following passage.</text>Probably the hardest part of setting goals is the first step of actually deciding to take action! The first barrier facing most people is the incorrect assumption that goals are only for business people. The reality is everyone sets goals mentally throughout the day. There are always occasions where something has to be done at a particular time or in a particular place. Simple examples could be getting up at a certain time in order to be at work, or to meet with a friend for a leisure activity. The beauty of having goals is the uniqueness of each one to the goal setter. Whether it is personal, financial, business or spiritual, they are all specific to that person and their circumstances. The most important part initially is to write them down. Having goals written down gives you incredible power while helping you to focus on this area. Aim for something that will stretch you while remaining achievable. If you achieve your goal too easily, it is not high enough to make any significant change in your life and needs to be adjusted. On the other hand, if you consistently miss the goals, you will only get discouraged and probably give up. The aim is to keep growing, and moving into a more satisfactory position for your particular circumstances. As you obtain the levels that you have set for yourself, always include a small reward at each point. This might only be a small thing in the early days like a meal out or a weekend vacation. Remember that these changes will not happen overnight and there will be a period of time when nothing seems to be happening. This is why the goals need to be detailed and as specific as possible with a consequence and benefit. Allow some time on a daily basis to educate yourself on how to make the necessary adjustments in your life. This could include listening to a CD, or reading a book on motivation, etc. A simple method to start with could be one goal in the main areas of life to be achieved in one month, six months, twelve months or five years. Break that down further into a daily, weekly and monthly system. Stay focused and disciplined to achieve all that you desire.
+                    </prompt>
+                    <question type="choice" strict="true" shuffle="true" weight="2.00">
+                        <prompt>The simple examples in Paragraph 1 convey the message that ___________.</prompt>
+                        <choice>
+                            <option id="1">goals are set mostly for important things</option>
+                            <option id="2">most people know when it is time to set goals</option>
+                            <option id="3">people set goals to get things done all the time</option>
+                            <option id="4">it is necessary to set goals occasionally</option>
+                        </choice>
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" shuffle="true" weight="2.00">
+                        <prompt>The charm of having goals is that each goal is ______________.</prompt>
+                        <choice>
+                            <option id="1">important</option>
+                            <option id="2">motivated</option>
+                            <option id="3">special</option>
+                            <option id="4">spiritual</option>
+                        </choice>
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" shuffle="true" weight="2.00">
+                        <prompt>A good goal is one that ________________.</prompt>
+                        <choice>
+                            <option id="1">keeps growing all the time</option>
+                            <option id="2">is high enough yet attainable</option>
+                            <option id="3">moves one into a satisfactory position</option>
+                            <option id="4">is evaluated from time to time</option>
+                        </choice>
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" shuffle="true" weight="2.00">
+                        <prompt>Goals have to be detailed so that people ________________.</prompt>
+                        <choice>
+                            <option id="1">can know their achievements at each stage</option>
+                            <option id="2">will eventually reach the levels set for themselves</option>
+                            <option id="3">may get small rewards such as a meal out</option>
+                            <option id="4">can adjust them on various occasions</option>
+                        </choice>
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" shuffle="true" weight="2.00">
+                        <prompt>For a goal to be achieved, one has to ________________.</prompt>
+                        <choice>
+                            <option id="1">believe in what he is doing</option>
+                            <option id="2">adapt oneself to new changes</option>
+                            <option id="3">divert from routine sometimes</option>
+                            <option id="4">concentrate on it until it is attained</option>
+                        </choice>
+                        <tip />
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="D3F5AF99BDAD47ABA84679CBEF030784" type="readingChoice" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="reading">
+                    <prompt>
+                        <text type="guide">Passage Two</text>
+                        <text type="guide">Questions 36 to 40 are based on the following passage.</text>
+                        <text>Although American mythology says that the Civil War was fought to free the slaves, historians agree that the political struggle that unfolded between the North and the South was primarily a contest between a southern plantation elite and northern industrial, mercantile, and agrarian interests. It was political pressure and the necessities of war that led Lincoln to announce the Emancipation Proclamation in September 1862. But the proclamation did not in fact end slavery: it did not apply to areas under Union control — border slave states and Confederate areas occupied by northern armies. Critics pointed out the proclamation freed slaves only in those areas where they could not be reached. Even so, the proclamation served notice on the South that the war had become a social revolution; if the Confederacy were defeated, the slave-based society of the South would also fall. When the war was over in 1865, the future of the former slaves was uncertain. The nation, still divided in spirit, plunged into a decade of political and social turmoil (混乱). In shaping their Reconstruction policies, the Radical Republicans were in part motivated by the abolitionist argument that a legalized caste (阶级) system was not compatible with American institutions. But they were also concerned that the southern states should not reenter the Union with the old planter elite still in control. It was the North&apos;s lack of commitment to the black&apos;s rights that ultimately doomed Reconstruction; in 1877, when the last occupation forces were withdrawn from the South, the region was on its own again. However, Jim Crow — legalized segregation — did not follow at once. It was during the 1890s and early 1900s that Jim Crow laws legalizing segregation were passed throughout the South. Before this time, blacks still voted in substantial numbers and received equal treatment on common carriers, trains, and streetcars. But blacks and whites attended separate schools, and whites did not accept blacks as social equals.</text>
+                    </prompt>
+                    <question type="choice" strict="true" shuffle="true" weight="2.00">
+                        <prompt>Historians think that the major purpose of starting a civil war was to ______.</prompt>
+                        <choice>
+                            <option id="1">abolish slavery</option>
+                            <option id="2">settle the conflicts between the North and the South</option>
+                            <option id="3">deprive the southern rich of properties</option>
+                            <option id="4">reinforce the position of Lincoln in the government</option>
+                        </choice>
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" shuffle="true" weight="2.00">
+                        <prompt>Critics think that the proclamation took effect ______.</prompt>
+                        <choice>
+                            <option id="1">only in the South</option>
+                            <option id="2">only in the North</option>
+                            <option id="3">in some remote areas</option>
+                            <option id="4">in both the South and the North</option>
+                        </choice>
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" shuffle="true" weight="2.00">
+                        <prompt>After the Civil War, ______.</prompt>
+                        <choice>
+                            <option id="1">the union became united</option>
+                            <option id="2">the society developed stably</option>
+                            <option id="3">the Republican started the Reconstruction project</option>
+                            <option id="4">the slaves&apos; situation was much improved</option>
+                        </choice>
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" shuffle="true" weight="2.00">
+                        <prompt>The Reconstruction policies failed ______.</prompt>
+                        <choice>
+                            <option id="1">because the North didn&apos;t make efforts to enhance the black&apos;s social status</option>
+                            <option id="2">because the South still treated the black unfairly</option>
+                            <option id="3">because the black weren&apos;t for them</option>
+                            <option id="4">because the conflicts between the North and the South were not settled</option>
+                        </choice>
+                        <tip />
+                    </question>
+                    <question type="choice" strict="true" shuffle="true" weight="2.00">
+                        <prompt>It can be inferred that in 1880s, ______.</prompt>
+                        <choice>
+                            <option id="1">some areas in the South were still occupied by the North</option>
+                            <option id="2">the blacks in the South were freed at last</option>
+                            <option id="3">many blacks fled to the South</option>
+                            <option id="4">the blacks in the South had the right to vote</option>
+                        </choice>
+                        <tip />
+                    </question>
+                </assessmentItem>
+            </section>
+        </part>
+    </group>
+    <group duration="15" navigationMode="nonlinear">
+        <part title="Vocabulary and Structure">
+            <section title="Section A" type="">
+                <prompt>
+                    <text type="direction">&lt;b&gt;Directions: &lt;/b&gt;There are a number of incomplete sentences in this part. For each sentence there are four choices marked A), B), C) and D). Choose the &lt;b&gt;ONE &lt;/b&gt;that best completes the sentence.</text>
+                    <text type="p_direction">&lt;b&gt;Directions: &lt;/b&gt;There are a number of incomplete sentences in this part. For each sentence there are four choices marked A), B), C) and D). Choose the &lt;b&gt;ONE &lt;/b&gt;that best completes the sentence.</text>
+                </prompt>
+                <assessmentItem identifier="8607F29A3A994552A0B7958CC7F8AEA0" baseType="simpleChoice" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>The desire to win glory for their country _____________ the athletes to train diligently.</prompt>
+                        <choice>
+                            <option id="1">impels</option>
+                            <option id="2">scatters</option>
+                            <option id="3">prolongs</option>
+                            <option id="4">terminates</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="4E039AF3F847495DA4B738A8FC18B05F" baseType="simpleChoice" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>There are many ways of _____________ a two-dimensional representation of an object.</prompt>
+                        <choice>
+                            <option id="1">generating</option>
+                            <option id="2">penetrating</option>
+                            <option id="3">anticipating</option>
+                            <option id="4">contaminating</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="2EB1A51A00D647E9AD60BC4271219078" baseType="simpleChoice" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程第三册" unit="2">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>She was sent on a special ________ to Africa.</prompt>
+                        <choice>
+                            <option id="1">mission</option>
+                            <option id="2">cause</option>
+                            <option id="3">tour</option>
+                            <option id="4">delegation</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="11C8EB87EC2143A587B121F787A9C2DD" baseType="simpleChoice" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程第三册" unit="2">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>A membership card ________ the holder to use the club’s facilities for a period of 12 months.</prompt>
+                        <choice>
+                            <option id="1">forces</option>
+                            <option id="2">authorizes</option>
+                            <option id="3">admits</option>
+                            <option id="4">imposes</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="A531A941E9A041D8BABBD4D2065CA977" baseType="simpleChoice" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程第三册" unit="2">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>Many people like white color as it is a ________ of purity.</prompt>
+                        <choice>
+                            <option id="1">symbol</option>
+                            <option id="2">sign</option>
+                            <option id="3">signal</option>
+                            <option id="4">symptom</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="94B7E1919E6A4234B40D1EF91620D8A9" baseType="simpleChoice" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程第三册" unit="2">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>We met some American soldiers _______ in brown uniforms.</prompt>
+                        <choice>
+                            <option id="1">to be dressed</option>
+                            <option id="2">dressed</option>
+                            <option id="3">to dress</option>
+                            <option id="4">dressing</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="CA4AA90BE60F4E2780E932FB54D85EC5" baseType="simpleChoice" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程第三册" unit="2">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>To call the music of another music culture “primitive” is ________ one’s own standard on a group that does not recognize them.</prompt>
+                        <choice>
+                            <option id="1">putting</option>
+                            <option id="2">emphasizing</option>
+                            <option id="3">forcing</option>
+                            <option id="4">imposing</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="600A8EE22E7B478E8E69DEF404ADC074" baseType="simpleChoice" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程第三册" unit="2">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>You have to be prepared to _________ the things you believe in.</prompt>
+                        <choice>
+                            <option id="1">stand up for</option>
+                            <option id="2">stand for</option>
+                            <option id="3">conform</option>
+                            <option id="4">assume</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="509820F3926344D69BA07C8EFF83A114" baseType="simpleChoice" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程第三册" unit="2">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>She cut her hair short and tried to ________ herself as a man.</prompt>
+                        <choice>
+                            <option id="1">decorate</option>
+                            <option id="2">disguise</option>
+                            <option id="3">fabricate</option>
+                            <option id="4">fake</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="BA9C5D4AFA50495196993550472A4845" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleChoice">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>Think the conveniences of living in a big city and you will not hesitate a moment to choose to live in the ______ area.</prompt>
+                        <choice>
+                            <option id="1">rural</option>
+                            <option id="2">urban</option>
+                            <option id="3">underground</option>
+                            <option id="4">domestic</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="910124760B2B4B109BF5FD4B1A48C5FE" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleChoice">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>Chang also said the franchise approach would have a great ______ on local drug retail market.</prompt>
+                        <choice>
+                            <option id="1">mission</option>
+                            <option id="2">confidence</option>
+                            <option id="3">impact</option>
+                            <option id="4">commitment</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="69D0B217AB2E44CCB6CDF7F7A8692BAF" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleChoice">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>John was ______ to give up his property by her aunt.</prompt>
+                        <choice>
+                            <option id="1">compelled</option>
+                            <option id="2">repelled</option>
+                            <option id="3">propelled</option>
+                            <option id="4">expelled</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="452617ED346C46D4B58467F66F05CCF1" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleChoice">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>It took them a few years to ______ the sunken wrecks out of the water finally.</prompt>
+                        <choice>
+                            <option id="1">patrol</option>
+                            <option id="2">haul</option>
+                            <option id="3">forge</option>
+                            <option id="4">veil</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="1FE451D4FAC14DB185D112A6767B1510" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleChoice">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>He makes a little money ______ by cleaning windows in his spare time.</prompt>
+                        <choice>
+                            <option id="1">on the side</option>
+                            <option id="2">as a result</option>
+                            <option id="3">by a small margin</option>
+                            <option id="4">at one time</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="CE01DA422CAF42A6B6A00212A95F5B68" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleChoice">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>In the story the clever little fox ______ the hunters and escapes from the trap they set.</prompt>
+                        <choice>
+                            <option id="1">outsmarts</option>
+                            <option id="2">imposes</option>
+                            <option id="3">defeats</option>
+                            <option id="4">disguises</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="465BA8F0ABF64D47A9AF4AE4E173DD50" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleChoice">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>The government is trying to do something to _________ better understanding between the two countries.</prompt>
+                        <choice>
+                            <option id="1">raise</option>
+                            <option id="2">promote</option>
+                            <option id="3">heighten</option>
+                            <option id="4">increase</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="0DC419FBD39C471EB80771212CD849BA" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleChoice">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>Marlin is a young man of independent thinking who is not about _________ compliments to his political leaders.</prompt>
+                        <choice>
+                            <option id="1">paying</option>
+                            <option id="2">having paid</option>
+                            <option id="3">to pay</option>
+                            <option id="4">to have paid</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="C03DC9D3C51B45DEB4F3BDC729FB27F6" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleChoice">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>As I&apos;ll be away for at least a year, I&apos;d appreciate _________ from you now and then telling me how everyone is getting along.</prompt>
+                        <choice>
+                            <option id="1">hearing</option>
+                            <option id="2">to hear</option>
+                            <option id="3">to be hearing</option>
+                            <option id="4">having heard</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="F4D0E5FD368C4AEEAF2CB15A3F7ADAB5" baseType="simpleChoice" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>You can lock up a person physically, but you cannot _____________ his heart.</prompt>
+                        <choice>
+                            <option id="1">impulse</option>
+                            <option id="2">implicit</option>
+                            <option id="3">imprison</option>
+                            <option id="4">immerse</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="C6C64618D3044D2DA769744974E80E5A" baseType="simpleChoice" type="vocabularyStructureChoice" level="3" course="全新版大学英语（第二版）综合教程3" unit="2" unitTo="2">
+                    <question type="choice" strict="true" shuffle="true" weight="1.00">
+                        <prompt>Any young men who wish to do research must be ___________ enough to question old beliefs.</prompt>
+                        <choice>
+                            <option id="1">conscious</option>
+                            <option id="2">conspicuous</option>
+                            <option id="3">courageous</option>
+                            <option id="4">cautious</option>
+                        </choice>
+                    </question>
+                </assessmentItem>
+            </section>
+        </part>
+    </group>
+    <group duration="15" navigationMode="nonlinear">
+        <part title="Translation">
+            <section title="Section A" type="">
+                <prompt>
+                    <text type="direction">&lt;b&gt;Directions: &lt;/b&gt; Complete the sentences by translating into English the Chinese given in brackets.</text>
+                    <text type="p_direction">&lt;b&gt;Directions: &lt;/b&gt; Complete the sentences by translating into English the Chinese given in brackets.</text>
+                </prompt>
+                <assessmentItem identifier="5BDAB9FB71994453A2E297B2BF2C7848" type="partOfSentenceTranslation" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleCloze">
+                    <question type="text" length="86" strict="false" weight="4.00">
+                        <prompt>Learning that he couldn&apos;t keep both ends meet after his unemployment,
+                            <tag type="text" />(她安慰他说她替他支付房租和电话费).
+                        </prompt>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="A611C838DE724DA787AF8D32BD22E0DB" type="partOfSentenceTranslation" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleCloze">
+                    <question type="text" length="101" strict="false" weight="4.00">
+                        <prompt>Everyone of us was required to
+                            <tag type="text" />(充分利用暑假为下学期尝试在线教学做好准备).
+                        </prompt>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="D5E3D9630AB04788AB7BACEBD309E0E3" type="partOfSentenceTranslation" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleCloze">
+                    <question type="text" length="77" strict="false" weight="4.00">
+                        <prompt>
+                            <tag type="text" />(在美国人的眼里，迈克尔·杰克逊是世界流行音乐之王) thanks to his greatest contribution to the music.
+                        </prompt>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="3E64AFA124504803AD0DF85EBCA12A78" type="partOfSentenceTranslation" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleCloze">
+                    <question type="text" length="47" strict="false" weight="4.00">
+                        <prompt>The life-sized wax image
+                            <tag type="text" />(如此栩栩如生以至于人们往往把它当成真人).
+                        </prompt>
+                    </question>
+                </assessmentItem>
+                <assessmentItem identifier="14B69EF579634D5882DBB5DDA73614A3" type="partOfSentenceTranslation" level="3" course="全新版大学英语（第二版）综合教程试题第三册" unit="2" baseType="simpleCloze">
+                    <question type="text" length="37" strict="false" weight="4.00">
+                        <prompt>It is self-evident that we tend not to
+                            <tag type="text" />(在失去某物前懂得珍惜它的价值).
+                        </prompt>
+                    </question>
+                </assessmentItem>
+            </section>
+        </part>
+    </group>
+</paper>
